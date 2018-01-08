@@ -1,0 +1,15 @@
+.text-red {
+    color:red;
+}
+.text-uppercase {
+    text-transform: uppercase;
+}
+.bg-grey {
+    background-color: lightgray;
+}
+.about {
+    height: 20em;
+}
+.left {
+    float: left;
+}
